@@ -5,7 +5,7 @@
 
 ## 📌 Introduction
 
-**Grid Adventure** is a console-based Java RPG game where the player navigates a grid world, encounters monsters, and engages in strategic combat. The project was developed as a coursework assignment to demonstrate mastery of **Object-Oriented Programming (OOP)** concepts including **abstraction**, **inheritance**, **polymorphism**, and **encapsulation**.
+**Grid Adventure** is a Java-based, console role-playing game (RPG) where players navigate a 2D grid, battle monsters, and strategize their way to victory. Designed using Object-Oriented Programming principles, the game demonstrates class inheritance, encapsulation, polymorphism, and game state management in a modular fashion.
 
 ## 🎯 Project Objectives
 
