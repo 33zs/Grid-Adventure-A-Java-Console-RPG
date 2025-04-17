@@ -7,7 +7,7 @@
 
 **Grid Adventure** is a Java-based, console role-playing game (RPG) where players navigate a 2D grid, battle monsters, and strategize their way to victory. Designed using Object-Oriented Programming principles, the game demonstrates class inheritance, encapsulation, polymorphism, and game state management in a modular fashion.
 
-📌 Features
+## 📌 Features
 -🧭 Explore a 2D grid-based map
 -👾 Battle AI-controlled monsters with randomized movement
 -⚔️ Turn-based combat system with attack/defense strategies
