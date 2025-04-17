@@ -28,6 +28,8 @@
 - No external libraries required (pure Java)
 
 ## 🧱 Project Structure
+
+```
 GridAdventure/
 ├── GameCharacter.java     # Abstract base class for all characters
 ├── Player.java            # Player subclass with attack/defense logic
@@ -36,6 +38,7 @@ GridAdventure/
 ├── GameLogic.java         # Controls movement, combat, and interactions
 ├── Game.java              # Manages game rounds and status
 ├── RunGame.java           # Main entry point with game loop and user input
+```
 
 
 ![image](https://github.com/user-attachments/assets/b914dc36-4b73-40dc-8455-71576ec81131)
